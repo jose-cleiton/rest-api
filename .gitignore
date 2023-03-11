@@ -1,2 +1,12 @@
+# Dependências e arquivos de construção do Node.js
 /node_modules
-/dist
+/build
+# Arquivos temporários
+*.tmp
+
+# Arquivos de log
+*.log
+
+# Diretórios que não precisam ser versionados
+logs/
+tmp/
